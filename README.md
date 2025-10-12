@@ -58,8 +58,8 @@ const Tahir = {
 
 ## 🤔 What I am Up To
 
-- 🌱 I’m currently working in MERN/PERN stack.
-- 👀 I’m interested in coding, problem solving and learning new things
+- 🌱 I’m currently working in MERN-Stack.
+- 👀 I’m interested in coding, problem-solving and learning new things
 - 💞️ I’m looking to collaborate on anything that can help me grow!
 - 📫 Reach out to me at <a href="https://www.linkedin.com/in/tahir-rafique/">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
