@@ -69,7 +69,7 @@ const Tahir = {
 
 ## 🔥 GitHub Stats
 
-| <a href=""><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=tahir-rafique&theme=dark&hide_border=false&background=000000" alt="Minahil's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilhussain&theme=dark&layout=compact&hide=scss&langs_count=8&theme=dark&bg_color=000000" /></a> |
+| <a href=""><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=tahir-rafique&theme=dark&hide_border=false&background=000000" alt="Minahil's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahir-rafique&theme=dark&layout=compact&hide=scss&langs_count=8&theme=dark&bg_color=000000" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <br/>
