@@ -1,12 +1,12 @@
-<div id="header" align="center">
+  <div id="header" align="center">
   <!-- <img src="femaleDev.png" width="150" alt="Female Developer Image"> -->
 <h1>Hello World! 👋 </h1>
 </div>
 
-```javaScript
+``` javascript
 const Tahir = {
-  experience: "1.5 Years",
-  school: "Bachelor’s in Computer Science program at the University of Azad Jammu and Kashmir",
+  experience: "2 Years",
+  school: "Bachelor’s in Computer Science — University of Azad Jammu and Kashmir",
   work: [
     " Software Engineer (Frontend Developer) @Octaloop IT&NS (Islamabad, Pakistan)",
     " Software Engineer (Frontend Intern) @HI-Tech Solution (Muzaffarabad, Pakistan)",
