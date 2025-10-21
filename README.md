@@ -3,7 +3,7 @@
 <h1>Hello World! 👋 </h1>
 </div>
 
-```javascript
+```javaScript
 const Tahir = {
   experience: "1.5 Years",
   school: "Bachelor’s in Computer Science program at the University of Azad Jammu and Kashmir",
@@ -14,7 +14,8 @@ const Tahir = {
   expertise: [
     "JavaScript",
     "TypeScript",
-    "ReactJs/NextJs",
+    "React"
+    "Next.Js",
     "ReactNative CLI/EXPO",
   ],
   goal: "To Leverage Software Development Skills And Create Software To Maximize Net Positive Impact In The Greater World",
