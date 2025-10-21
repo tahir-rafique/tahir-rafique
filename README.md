@@ -6,7 +6,7 @@
 ```javascript
 const Tahir = {
   experience: "1.5 Years",
-  school: "University of Azad Jammu and Kashmir",
+  school: "Bachelor’s in Computer Science program at the University of Azad Jammu and Kashmir",
   work: [
     " Software Engineer (Frontend Developer) @Octaloop IT&NS (Islamabad, Pakistan)",
     " Software Engineer (Frontend Intern) @HI-Tech Solution (Muzaffarabad, Pakistan)",
