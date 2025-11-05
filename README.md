@@ -8,8 +8,8 @@ const Tahir = {
   experience: "2 Years",
   school: "Bachelor’s in Computer Science — University of Azad Jammu and Kashmir",
   work: [
-    " Software Engineer (Frontend Developer) @Octaloop IT&NS (Islamabad, Pakistan)",
-    " Software Engineer (Frontend Intern) @HI-Tech Solution (Muzaffarabad, Pakistan)",
+    " Software Engineer (Frontend Developer, Web + Mobile) @Octaloop IT&NS (Islamabad, Pakistan)",
+    " Software Engineer (Frontend Developer) @HI-Tech Solution (Muzaffarabad, Pakistan)",
   ],
   expertise: [
     "JavaScript",
