@@ -5,7 +5,7 @@
 
 ``` javascript
 const Tahir = {
-  experience: "2 Years",
+  experience: "2.5 Years",
   school: "Bachelor’s in Computer Science — University of Azad Jammu and Kashmir",
   work: [
     " Software Engineer (Frontend Developer, Web + Mobile) @Octaloop IT&NS (Islamabad, Pakistan)",
