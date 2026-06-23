@@ -1,5 +1,4 @@
   <div id="header" align="center">
-  <!-- <img src="femaleDev.png" width="150" alt="Female Developer Image"> -->
 <h1>Hello World! 👋 </h1>
 </div>
 
