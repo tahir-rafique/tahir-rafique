@@ -1,12 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&weight=300&size=27&pause=1000&color=351A92&center=true&random=false&width=500&lines=Crafting+React+Experiences+%E2%9C%A8;Shaping+Frontend+Realities+%F0%9F%8C%9F;Embracing+the+MERN+Stack+Journey+%F0%9F%9A%80;Explore+My+Digital+Haven+%F0%9F%8C%90;Enthusiastic+about+MERN+Innovations+%F0%9F%8C%9F;Welcome+to+My+Tech+Playground+%F0%9F%9A%80;Building+Tomorrow's+Frontend+Today+%F0%9F%8C%90;Step+into+My+Digital+Wonderland+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204" target="_blank">
-<img src="https://i.postimg.cc/xdSp2ZtT/Purple-Minimalist-App-Developer-New-Linked-In-Banner-1.png" alt="LinkedIn Banner" border="0" width="100%" height="100%" />
-</a>
 
 <h3 align="center">
   <samp>&gt; Hi There!, I am
-    <b><a target="_blank" href="https://syedmaazsaeed-techfolio.vercel.app/">Syed Maaz Saeed</a></b>
+    <b><a target="_blank" href="https://tahir-rafique.vercel.app/">Tahir Rafique</a></b>
   </samp>
 </h3>
 
